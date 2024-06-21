@@ -29,3 +29,6 @@ competition_frame/
 
 - ***test.py***:
   - 测试代码
+
+- ***draw.py***:
+  - 绘制训练过程中的损失
