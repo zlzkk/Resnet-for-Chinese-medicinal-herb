@@ -20,7 +20,9 @@ competition_frame/
 
 - ***train.py***：
   - 训练代码
-  
+
+- ***dataset.py***：
+  - 数据集预处理代码
 
 - ***model_utils.py***:
   - 模型代码
